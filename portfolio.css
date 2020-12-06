@@ -1,0 +1,180 @@
+html {
+    background-attachment: fixed;
+    background-image: url(background_%EB%8C%80%EC%A7%80%201.png);
+    background-size: 100%;
+    background-attachment: local;
+}
+
+.info{
+    width: 400px;
+    margin-right: 60px;
+    margin-bottom: 0px;
+    margin-top: 150px;
+    text-align: right;
+    float: right;
+    font-family: "AppleSDGothicNeoM00";
+    color: #ffff;
+}
+
+.tag{
+    color: #E4D475;
+    float: right;
+    width: 150px;
+    text-align: right;
+    text-decoration-line: none;
+    line-height: 40px;
+    font-family: "HelveticaInserat";
+    font-size: 40px;
+    margin: 90px 0 0 0px;
+}
+
+a:active {
+    color: #E4D475;
+}
+
+a:visited {
+    color: #E4D475;
+}
+
+a:hover {
+    color: #3A385E;
+}
+
+#artworks{
+    font-family: "Helvetica";
+    font-size: 30px;
+    color: #3A385E;
+    margin-left: 100px;
+    margin-top: 130px;
+    padding-bottom: 10px;
+}
+
+.one{
+    font-size: 17px;
+    margin: 0px;
+}
+
+.two{
+    font-size: 13px;
+    margin-top: 10px;
+    padding-left: 100px;
+}
+
+#moon{
+    margin-top: -11px;
+    margin-right: -8px;
+    float: right;
+}
+
+.title{
+    padding: 3px 0 0 50px;
+    margin: -30px 0 0 50px;
+    width: 147px;
+    height: 140px;
+    font-size: 250px;
+    font-family: "Helvetica83-ExtendedHeavy";
+    color: #E4D475;
+}
+.title2{
+    padding: 30px 0 0 50px;
+    margin: 35px 0 0 50px;
+    width: 147px;
+    height: 140px;
+    font-size: 240px;
+    font-family: "Helvetica83-ExtendedHeavy";
+    color: #E4D475;
+}
+.title3{
+    padding: 30px 0 0 60px;
+    margin: 20px 0 0 55px;
+    width: 147px;
+    height: 130px;
+    font-size: 240px;
+    font-family: "Helvetica83-ExtendedHeavy";
+    color: #E4D475;
+}
+.title4{
+    padding: 30px 0 0 57px;
+    margin: 30px 0 0 55px;
+    width: 147px;
+    height: 140px;
+    font-size: 240px;
+    font-family: "Helvetica83-ExtendedHeavy";
+    color: #E4D475;
+}
+.title5{
+    padding: 30px 0 0 55px;
+    margin: 20px 0 0 50px;
+    width: 147px;
+    height: 140px;
+    font-size: 240px;
+    font-family: "Helvetica83-ExtendedHeavy";
+    color: #E4D475;
+}
+
+.tt{
+    margin-top: -60px;
+    margin-left: -30px;
+}
+
+.doyak{
+    font-family: "AppleSDGothicNeoEB00 Regular";
+    color: #E4D475;
+    font-size: 50px;
+    width: auto;
+    margin-top: 10px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    margin-left: 330px;
+    margin-bottom: 0px;
+}
+
+li {
+    display: inline;
+    padding-right: 30px;
+    list-style: none;
+}
+
+.rotation{
+    position: absolute;
+    margin-left: 90px;
+}
+
+.rotation2{
+    position: absolute;
+    margin-left: 90px;
+}
+
+.rotation2 #magazine:hover{
+    transform: rotateY(180deg) rotateY(180deg);
+    transition: transform 1.5s cubic-bezier(.09,.72,.54,.95);
+}
+
+.rotation2 #poster:hover{
+    transform: rotateY(180deg) rotateY(180deg);
+    transition: transform 1.5s cubic-bezier(.09,.72,.54,.95);
+}
+
+.rotation2 #graphic:hover{
+    transform: rotateY(180deg) rotateY(180deg);
+    transition: transform 1.5s cubic-bezier(.09,.72,.54,.95);
+}
+
+.rotation2 #uxui:hover{
+    transform: rotateY(180deg) rotateY(180deg);
+    transition: transform 1.5s cubic-bezier(.09,.72,.54,.95);
+}
+
+.rotation2 #magazine:hover{
+    transform: rotateY(180deg) rotateY(180deg);
+    transition: transform 1.5s cubic-bezier(.09,.72,.54,.95);
+}
+
+
+footer{
+    font-size: 12px;
+    font-family: "Helvetica";
+    height: 20px;
+    padding-top: 330px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,44 @@
+*{
+    background-color: #7D7598;
+}
+
+body{
+    padding-top: 270px;
+}
+
+a {
+    font-family: "Helvetica83-ExtendedHeavy";
+    float: center;
+    text-align: center;
+    font-size: 100pt;
+    color: #E4D475;
+}
+
+a:link {
+    color: #E4D475;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #E4D475;
+    text-decoration: none;
+}
+
+a:hover {
+    color: cyan;
+}
+
+
+.intro {
+    font-family: "Helvetica83-ExtendedHeavy";
+    font-size: 20pt;
+    color: #E4D475;
+    margin-top: 0px;
+}
+
+footer{
+    font-size: 12px;
+    font-family: "Helvetica";
+    height: 20px;
+    padding-top: 250px;
+}
