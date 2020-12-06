@@ -1,0 +1,12 @@
+*{
+    background: #7D7598;
+}
+
+body{
+    width: 2200px;
+}
+
+li{
+    display: inline-grid;
+    list-style: none;
+}
