@@ -1,0 +1,69 @@
+*{
+    background: #7D7598;
+}
+
+ul li {
+    padding: 20px 50px;
+    font-size: 17px;
+    font-family: "Helvetica";
+    list-style: none;
+    color: #3A385E;
+}
+
+a:visited{
+    color: #3A385E;
+}
+
+a:active{
+    color: #3A385E;
+}
+
+a:hover{
+    color: #E4D475;
+    padding: 20px 0px;
+    opacity: 1s -1;
+}
+
+.magazine{
+    float: right;
+    font-family: "Helvetica83-ExtendedHeavy";
+    font-size: 230px;
+    height: 30px;
+    color: #E4D475;
+    margin-top: -90px;
+    margin-left, margin-right: auto;
+}
+
+#home{
+    margin: -20px 0px 0px 20px;
+    float: left;
+}
+
+.title{
+    margin: 100px 30px 50px 30px;
+    font-size: 40px;
+    font-family: "Helvetica";
+    color: #3A385E;
+}
+
+.eodhkd{
+    margin: 0px 30px;
+    font-size: 25px;
+    font-family: "AppleSDGothicNeoM00 Regular";
+}
+
+.link_frame{
+    margin-top: 20px;
+    width: 100%;
+    height: 555px;
+    border: 0px;
+}
+
+
+footer{
+    font-size: 12px;
+    font-family: "Helvetica";
+    height: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}

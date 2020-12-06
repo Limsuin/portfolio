@@ -1,0 +1,92 @@
+*{
+    background: #7D7598;
+}
+
+ul li {
+    padding: 20px 50px;
+    font-size: 17px;
+    font-family: "Helvetica";
+    list-style: none;
+    color: #3A385E;
+}
+
+a:visited{
+    color: #3A385E;
+}
+
+a:active{
+    color: #3A385E;
+}
+
+a:hover{
+    color: #E4D475;
+    padding: 20px 0px;
+    opacity: 1s -1;
+}
+
+#home{
+    margin: 160px 0px 0px 20px;
+    float: left;
+}
+
+.uxui{
+    float: right;
+    font-family: "Helvetica83-ExtendedHeavy";
+    font-size: 230px;
+    height: 30px;
+    color: #E4D475;
+    margin-top: -90px;
+    margin-left, margin-right: auto;
+}
+
+.title{
+    margin: 100px 30px 50px 30px;
+    font-size: 40px;
+    font-family: "Helvetica";
+    color: #3A385E;
+}
+
+.detail{
+    color: #E4D475;
+    margin: 0px 0px 8px 50px;
+    font-family: "AppleSDGothicNeoEB00 Regular";
+    font-size: 30px;
+}
+
+
+li{
+    list-style: none;
+    padding: 20px 50px 20px 960px;
+    outline: inherit;
+}
+
+.scratch{
+    float: right;
+}
+
+.de{
+    float: left;
+    position: absolute;
+    margin: 30px 0px 0px 100px;
+}
+
+.semi{
+    font-family: "AppleSDGothicNeoM00 Regular";
+    color: #E4D475;
+    font-size: 35px;
+}
+
+.mini{
+    font-family: "AppleSDGothicNeoM00 Regular";
+    color: #CCCBD1;
+    font-size: 15px;
+    margin: 0px;
+}
+
+footer{
+    font-size: 12px;
+    font-family: "Helvetica";
+    height: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
